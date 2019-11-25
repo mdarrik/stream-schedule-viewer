@@ -1,0 +1,20 @@
+{
+  "name": "stream-event-schedule-viewer",
+  "version": "0.0.1",
+  "description": "A Twitch extension that lets users see upcoming stream event date/times, as well as info about the events.",
+  "main": "index.js",
+  "repository": "https://github.com/mdarrik/stream-schedule-viewer.git",
+  "author": "Darrk Moberg <30670444+mdarrik@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gatsby": "^2.18.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  }
+}
